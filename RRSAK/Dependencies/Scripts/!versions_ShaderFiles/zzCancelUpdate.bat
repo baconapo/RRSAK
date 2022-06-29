@@ -1,0 +1,2 @@
+echo idek y
+pause
