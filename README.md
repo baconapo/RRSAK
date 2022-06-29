@@ -1,4 +1,2 @@
 # RRSAK
-RobloxRoShadeAutomaticKeeper
-
-Hi guys, this is very buggy and annoying and rlly weird rn but it kinda works so yeah
+RobloxRoShadeAutomaticKeeper is something i made cuz i wanted roshade to stay when roblox updates and now i found a rlly janky way to make it stay so ya
